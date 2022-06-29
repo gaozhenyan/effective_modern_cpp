@@ -1,4 +1,4 @@
-cmake_minimum_required(3.5.0)
+cmake_minimum_required(VERSION 3.5.0)
 
 project(effective_modern_cpp)
 
